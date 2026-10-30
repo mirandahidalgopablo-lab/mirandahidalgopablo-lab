@@ -60,16 +60,6 @@ Desarrollador **Full-Stack & Multiplataforma** (2.º DAM · IES Laguna del Toll�
 </td>
   </tr>
 </table>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirandahidalgopablo-lab&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=mirandahidalgopablo-lab&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
 <div align="center">
 <sub>📍 Lebrija, Sevilla · Abierto a prácticas y oportunidades como desarrollador</sub>
 </div>
