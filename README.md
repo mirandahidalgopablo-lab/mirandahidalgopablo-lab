@@ -48,7 +48,7 @@ Desarrollador **Full-Stack & Multiplataforma** (2.º DAM · IES Laguna del Toll�
 
 **[VintHook](https://github.com/mirandahidalgopablo-lab/Proyecto-VintHook)** · plataforma full-stack + extensión de navegador para **detectar chollos en Vinted en tiempo real**.
 
-- ⚡ Escaneo concurrente de 16 mercados europeos y filtrado estadístico (IQR) para encontrar precios por debajo de mercado.
+- ⚡ Escaneo concurrente de los 26 mercados de Vinted en menos de 300 ms y filtrado estadístico (IQR) para encontrar precios por debajo de mercado.
 - 🔔 Alertas instantáneas por **Telegram y Discord** (webhooks).
 - 🤖 **AutoPilot** 24/7 en servidor + extensión Chrome (Manifest V3) que conecta tu sesión de Vinted.
 - 💳 SaaS completo: Google OAuth 2.0, suscripciones Stripe con webhooks, IA con Google Gemini.
