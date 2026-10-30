@@ -28,7 +28,7 @@ Desarrollador **Full-Stack & Multiplataforma** (2.º DAM · IES Laguna del Toll�
   </tr>
   <tr>
     <td><b>Frontend & Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" /> <br/><sub>React Native</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" /> <br/></td>
   </tr>
   <tr>
     <td><b>Bases de datos</b></td>
